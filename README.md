@@ -7,8 +7,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Papers
 
 - **[SimCLR]** A Simple Framework for Contrastive Learning of Visual Representations [[pdf]](https://arxiv.org/pdf/2002.05709.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/leftthomas/SimCLR) [[code]](https://github.com/ae-foster/pytorch-simclr) [[code]](https://github.com/sthalles/SimCLR) [[code]](https://github.com/AndrewAtanov/simclr-pytorch) [[code]](https://github.com/tonylins/simclr-converter)
-- **[SimCLRv2]** Big Self-Supervised Models are Strong Semi-Supervised Learners [[pdf]](https://arxiv.org/pdf/2006.10029.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/Separius/SimCLRv2-Pytorch)
-- **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning [[pdf]](https://arxiv.org/pdf/2006.07733.pdf) [[code]](https://github.com/sthalles/PyTorch-BYOL) [[code]](https://github.com/lucidrains/byol-pytorch) [[video]](https://www.youtube.com/watch?v=YPfUiOMYOEE&t=1813s&ab_channel=YannicKilcher)
+- **[SimCLRv2]** Big Self-Supervised Models are Strong Semi-Supervised Learners [[pdf]](https://arxiv.org/pdf/2006.10029.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/Separius/SimCLRv2-Pytorch) [[video]](https://www.youtube.com/watch?v=2lkUNDZld-4&ab_channel=YannicKilcher)
+- **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning [[pdf]](https://arxiv.org/pdf/2006.07733.pdf) [[code]](https://github.com/sthalles/PyTorch-BYOL) [[code]](https://github.com/lucidrains/byol-pytorch) [[video]](https://www.youtube.com/watch?v=YPfUiOMYOEE&t=1813s&ab_channel=YannicKilcher) 
+- **[BYOL does not work]** Understanding Self-Supervised and Contrastive Learning with BYOL [[blog]](https://generallyintelligent.ai/blog/2020-08-24-understanding-self-supervised-contrastive-learning/)
+- **[BYOL works!]** BYOL works even without batch statistics [[pdf]](https://arxiv.org/pdf/2010.10241.pdf)
 - **[DeepCluster]** Deep Clustering for Unsupervised Learning of Visual Features [[pdf]](https://arxiv.org/pdf/1807.05520.pdf) [[code]](https://github.com/facebookresearch/deepcluster)
 - **[SWAV]** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[pdf]](https://arxiv.org/pdf/2006.09882.pdf) [[code]](https://github.com/facebookresearch/swav)
 - **[SimSiam]** Exploring Simple Siamese Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10566.pdf) [[code]](https://github.com/facebookresearch/simsiam)
@@ -45,16 +47,35 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - **[RINCE]** Robust Contrastive Learning against Noisy Views [[pdf]](https://arxiv.org/pdf/2201.04309.pdf) [[code]](https://github.com/chingyaoc/RINCE)
 - **[CoKe]** Unsupervised Visual Representation Learning by Online Constrained K-Means [[pdf]](https://arxiv.org/pdf/2105.11527.pdf) [[code]](https://github.com/idstcv/CoKe)
 - **[ReSim]** Region Similarity Representation Learning [[pdf]](https://arxiv.org/pdf/2103.12902.pdf) [[code]](https://github.com/Tete-Xiao/ReSim)
+- **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
+- **[CAST]** Learning to Localize Improves Self-Supervised Representations [[pdf]](https://arxiv.org/pdf/2012.04630.pdf)
+- Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
+- A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
+- Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
+- Directional Self-supervised Learning for Heavy Image Augmentations [[pdf]](https://arxiv.org/pdf/2110.13555.pdf)
+- **[LoGo]** Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy [[pdf]](https://arxiv.org/pdf/2203.17205.pdf) [[code]](https://github.com/ztt1024/LoGo-SSL)
+- **[CsMl]** Hierarchical Semantic Alignment for Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2012.02733.pdf)
+- **[SetSim]** Exploring Set Similarity for Dense Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2107.08712.pdf) 
+- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework [[pdf]](https://arxiv.org/pdf/2112.05141.pdf) 
+- When Does Contrastive Visual Representation Learning Work? [[pdf]](https://arxiv.org/pdf/2105.05837.pdf)
+- **[UniVIP]**  A Unified Framework for Self-Supervised Visual Pre-training [[pdf]](https://arxiv.org/pdf/2203.06965.pdf) 
+- **[Dual Temperature]** Towards Understanding and Simplifying MoCo [[pdf]](https://arxiv.org/pdf/2203.17248.pdf) [[code]](https://github.com/ChaoningZhang/Dual-temperature)
+- **[DATA]** Domain-Aware and Task-Aware Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2203.09041.pdf) [[code]](https://github.com/GAIA-vision/GAIA-ssl)
+- **[SaGe]** Semantic-Aware Generation for Self-Supervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2111.13163.pdf) [[code]](https://github.com/sunsmarterjie/SaGe)
+
+# Review Papers
+- Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
+- Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
 
 # Libraries
-[VISSL](https://github.com/facebookresearch/vissl)
-[Lightly](https://github.com/lightly-ai/lightly)
-[UniLM AI](https://github.com/facebookresearch/data2vec_vision)
+- [VISSL](https://github.com/facebookresearch/vissl)
+- [Lightly](https://github.com/lightly-ai/lightly)
+- [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
 
 # Other Resources
-[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
-[Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
-[Amit Chaudhary](https://amitness.com/archives/)
-[AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
-
+- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+- [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
+- [Amit Chaudhary](https://amitness.com/archives/)
+- [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
+- [Math of SSL](https://yuandong-tian.com/)
 
