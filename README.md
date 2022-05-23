@@ -61,11 +61,6 @@ If you find some overlooked papers, please open issues or pull requests
 - **[IP-IRM]** Self-Supervised Learning Disentangled Group Representation as Feature [[pdf]](https://arxiv.org/pdf/2110.15255.pdf) [[code]](https://github.com/Wangt-CN/IP-IRM)
 - **[SSL-HSIC]** Self-Supervised Learning with Kernel Dependence Maximization [[pdf]](https://arxiv.org/pdf/2106.08320.pdf) [[code]](https://github.com/deepmind/ssl_hsic)
 - **[PixPro]** Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10043.pdf) [[code]](https://github.com/zdaxie/PixPro)
-- **[SoCo]** Aligning Pretraining for Detection via Object-Level Contrastive Learning [[pdf]](https://arxiv.org/pdf/2106.02637.pdf) [[code]](https://github.com/hologerry/SoCo)
-- **[VADeR]** Unsupervised Learning of Dense Visual Representations [[pdf]](https://arxiv.org/pdf/2011.05499.pdf) 
-- **[SEED]** Self-supervised Distillation For Visual Representation [[pdf]](https://arxiv.org/pdf/2101.04731.pdf)
-- **[CompRess]** Self-Supervised Learning by Compressing Representations [[pdf]](https://arxiv.org/pdf/2010.14713.pdf) [[code]](https://github.com/UMBCvision/CompReSS)
-- **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation [[pdf]](https://arxiv.org/pdf/2107.01691.pdf) [[code]](https://github.com/haohang96/bingo)
 - Self-training with Noisy Student improves ImageNet classification [[pdf]](https://arxiv.org/pdf/1911.04252.pdf) [[video]](https://www.youtube.com/watch?v=q7PjrmGNx5A&t=1565s&ab_channel=YannicKilcher)
 - Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
@@ -84,7 +79,8 @@ If you find some overlooked papers, please open issues or pull requests
 - [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
 
 # Other Resources
-- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+- [jason718-awesome-ssl](https://github.com/jason718/awesome-self-supervised-learning)
+- [dev-sungman-awesome-ssl](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers)
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
