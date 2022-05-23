@@ -103,4 +103,4 @@ If you find some overlooked papers, please open issues or pull requests
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
 - [Math of SSL](https://yuandong-tian.com/)
-
+- Optimal Transport and Hungarian Algorithm (used in many SSL works) [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
