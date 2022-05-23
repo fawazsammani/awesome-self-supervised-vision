@@ -60,7 +60,6 @@ If you find some overlooked papers, please open issues or pull requests
 - **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/teddykoker/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[videp]](https://www.youtube.com/watch?v=YBlNQK0Ao6g&ab_channel=YannicKilcher)
 - **[IP-IRM]** Self-Supervised Learning Disentangled Group Representation as Feature [[pdf]](https://arxiv.org/pdf/2110.15255.pdf) [[code]](https://github.com/Wangt-CN/IP-IRM)
 - **[SSL-HSIC]** Self-Supervised Learning with Kernel Dependence Maximization [[pdf]](https://arxiv.org/pdf/2106.08320.pdf) [[code]](https://github.com/deepmind/ssl_hsic)
-- **[PixPro]** Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10043.pdf) [[code]](https://github.com/zdaxie/PixPro)
 - Self-training with Noisy Student improves ImageNet classification [[pdf]](https://arxiv.org/pdf/1911.04252.pdf) [[video]](https://www.youtube.com/watch?v=q7PjrmGNx5A&t=1565s&ab_channel=YannicKilcher)
 - Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
