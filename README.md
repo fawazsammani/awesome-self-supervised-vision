@@ -6,7 +6,7 @@ If you find some overlooked papers, please open issues or pull requests
 
 ## Papers
 
-- **[SimCLR]** A Simple Framework for Contrastive Learning of Visual Representations [[pdf]](https://arxiv.org/pdf/2002.05709.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/leftthomas/SimCLR) [[code]](https://github.com/ae-foster/pytorch-simclr) [[code]](https://github.com/sthalles/SimCLR) [[code]](https://github.com/AndrewAtanov/simclr-pytorch) [[code]](https://github.com/tonylins/simclr-converter)
+- **[SimCLR]** A Simple Framework for Contrastive Learning of Visual Representations [[pdf]](https://arxiv.org/pdf/2002.05709.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/leftthomas/SimCLR) [[code]](https://github.com/ae-foster/pytorch-simclr) [[code]](https://github.com/sthalles/SimCLR) [[code]](https://github.com/AndrewAtanov/simclr-pytorch) [[code]](https://github.com/tonylins/simclr-converter) [[video]](https://www.youtube.com/watch?v=a7-qwwAFs_s&t=215s) [[video]](https://www.youtube.com/watch?v=YZgeWsuyRH8&ab_channel=AIBites)
 - **[SimCLRv2]** Big Self-Supervised Models are Strong Semi-Supervised Learners [[pdf]](https://arxiv.org/pdf/2006.10029.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/Separius/SimCLRv2-Pytorch) [[video]](https://www.youtube.com/watch?v=2lkUNDZld-4&ab_channel=YannicKilcher)
 - **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning [[pdf]](https://arxiv.org/pdf/2006.07733.pdf) [[code]](https://github.com/sthalles/PyTorch-BYOL) [[code]](https://github.com/lucidrains/byol-pytorch) [[video]](https://www.youtube.com/watch?v=YPfUiOMYOEE&t=1813s&ab_channel=YannicKilcher) 
 - **[BYOL does not work]** Understanding Self-Supervised and Contrastive Learning with BYOL [[blog]](https://generallyintelligent.ai/blog/2020-08-24-understanding-self-supervised-contrastive-learning/)
@@ -58,7 +58,10 @@ If you find some overlooked papers, please open issues or pull requests
 - **[Dual Temperature]** Towards Understanding and Simplifying MoCo [[pdf]](https://arxiv.org/pdf/2203.17248.pdf) [[code]](https://github.com/ChaoningZhang/Dual-temperature)
 - **[DATA]** Domain-Aware and Task-Aware Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2203.09041.pdf) [[code]](https://github.com/GAIA-vision/GAIA-ssl)
 - **[SaGe]** Semantic-Aware Generation for Self-Supervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2111.13163.pdf) [[code]](https://github.com/sunsmarterjie/SaGe)
+- **[MST]** Masked Self-Supervised Transformer for Visual Representation [[pdf]](https://arxiv.org/pdf/2106.05656.pdf) 
 - **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/teddykoker/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[videp]](https://www.youtube.com/watch?v=YBlNQK0Ao6g&ab_channel=YannicKilcher)
+- **[IP-IRM]** Self-Supervised Learning Disentangled Group Representation as Feature [[pdf]](https://arxiv.org/pdf/2110.15255.pdf) [[code]](https://github.com/Wangt-CN/IP-IRM)
+- **[SSL-HSIC]** Self-Supervised Learning with Kernel Dependence Maximization [[pdf]](https://arxiv.org/pdf/2106.08320.pdf) [[code]](https://github.com/deepmind/ssl_hsic)
 - Self-training with Noisy Student improves ImageNet classification [[pdf]](https://arxiv.org/pdf/1911.04252.pdf) [[video]](https://www.youtube.com/watch?v=q7PjrmGNx5A&t=1565s&ab_channel=YannicKilcher)
 - Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
