@@ -91,9 +91,12 @@ If you find some overlooked papers, please open issues or pull requests
 - [Lightly](https://github.com/lightly-ai/lightly)
 - [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
 
-# Other Resources
-- [jason718-awesome-ssl](https://github.com/jason718/awesome-self-supervised-learning)
-- [dev-sungman-awesome-ssl](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers)
+# Other Awesomes
+- [jason718](https://github.com/jason718/awesome-self-supervised-learning)
+- [dev-sungman](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers)
+- [asheeshcric](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
+
+# Some Nice Resources
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
