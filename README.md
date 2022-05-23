@@ -52,8 +52,6 @@ If you find some overlooked papers, please open issues or pull requests
 - **[LoGo]** Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy [[pdf]](https://arxiv.org/pdf/2203.17205.pdf) [[code]](https://github.com/ztt1024/LoGo-SSL)
 - **[CsMl]** Hierarchical Semantic Alignment for Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2012.02733.pdf)
 - **[SetSim]** Exploring Set Similarity for Dense Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2107.08712.pdf) 
-- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework [[pdf]](https://arxiv.org/pdf/2112.05141.pdf) 
-- When Does Contrastive Visual Representation Learning Work? [[pdf]](https://arxiv.org/pdf/2105.05837.pdf)
 - **[UniVIP]**  A Unified Framework for Self-Supervised Visual Pre-training [[pdf]](https://arxiv.org/pdf/2203.06965.pdf) 
 - **[Dual Temperature]** Towards Understanding and Simplifying MoCo [[pdf]](https://arxiv.org/pdf/2203.17248.pdf) [[code]](https://github.com/ChaoningZhang/Dual-temperature)
 - **[DATA]** Domain-Aware and Task-Aware Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2203.09041.pdf) [[code]](https://github.com/GAIA-vision/GAIA-ssl)
@@ -73,6 +71,8 @@ If you find some overlooked papers, please open issues or pull requests
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Directional Self-supervised Learning for Heavy Image Augmentations [[pdf]](https://arxiv.org/pdf/2110.13555.pdf)
+- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework [[pdf]](https://arxiv.org/pdf/2112.05141.pdf) 
+- When Does Contrastive Visual Representation Learning Work? [[pdf]](https://arxiv.org/pdf/2105.05837.pdf)
 
 # Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
