@@ -2,7 +2,10 @@
 
 Self-Supervised Vision Learning is blowing the field! Let's keep track on all the works before it gets too late! Only papers from 2020 onwards are included. Previous papers can be found in another awesome repo at the end. 
 
-If you find some overlooked papers, please open issues or pull requests
+If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
+```
+- **[]** Paper Name [[pdf]]() [[code]]()
+```
 
 ## Papers
 
