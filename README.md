@@ -103,6 +103,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 # Some Nice Resources
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
+- [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
 - [Math of SSL](https://yuandong-tian.com/)
