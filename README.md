@@ -87,24 +87,27 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Hard Negative Mixing for Contrastive Learning [[pdf]](https://arxiv.org/pdf/2010.01028.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision/mochi/)
 - Robust Contrastive Learning Using Negative Samples with Diminished Semantics [[pdf]](https://arxiv.org/pdf/2110.14189.pdf) [[code]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 
-# Review Papers
+## Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
 - Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
 
-# Libraries
+## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
 - [Lightly](https://github.com/lightly-ai/lightly)
-- [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
 
-# Other Awesomes
+## Other Awesomes
 - [jason718](https://github.com/jason718/awesome-self-supervised-learning)
 - [dev-sungman](https://github.com/dev-sungman/Awesome-Self-Supervised-Papers)
 - [asheeshcric](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
 
-# Some Nice Resources
+## Some Nice Resources
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
 - [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
 - [Math of SSL](https://yuandong-tian.com/)
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
+
+## Not Vision, but cool to have here
+- [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
+- OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [metaseq](https://github.com/facebookresearch/metaseq) [[colab]](https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7#scrollTo=R94R2YaeQMQS&uniqifier=1) [[HF model card]](https://huggingface.co/facebook/opt-30b)
