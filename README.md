@@ -106,7 +106,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
-- [Math of SSL](https://yuandong-tian.com/)
+- Math of SSL [Yuandong Tian's work](https://yuandong-tian.com/) [Spectral Embedding](https://arxiv.org/pdf/2205.11508.pdf)
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
 
 ## Not Vision, but cool to have here
