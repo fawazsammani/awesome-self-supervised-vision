@@ -27,7 +27,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[iBOT]** Image BERT Pre-Training with Online Tokenizer [[pdf]](https://arxiv.org/pdf/2111.07832.pdf) [[code]](https://github.com/bytedance/ibot)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
 - **[Asym-Siam]** Name [[pdf]](https://arxiv.org/pdf/2204.00613.pdf) [[code]](https://github.com/facebookresearch/asym-siam)
-- **[DetCon]** Efficient Visual Pretraining with Contrastive Detection [[pdf]](https://arxiv.org/pdf/2103.10957.pdf) [[code]](https://github.com/isaaccorley/detcon-pytorch)
+- **[DetCon]** Efficient Visual Pretraining with Contrastive Detection [[pdf]](https://arxiv.org/pdf/2103.10957.pdf) [[code]](https://github.com/isaaccorley/detcon-pytorch) [[video]](https://www.youtube.com/watch?v=oPfu_Ec5u60&t=1225s&ab_channel=TheAIEpiphany)
 - **[MoBY]** Self-Supervised Learning with Swin Transformers [[pdf]](https://arxiv.org/pdf/2105.04553.pdf) [[code]](https://github.com/SwinTransformer/Transformer-SSL)
 - **[CARE]** Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2110.05340.pdf) [[code]](https://github.com/ChongjianGE/CARE)
 - **[ContrastiveCrop]** Crafting Better Contrastive Views for Siamese Representation Learning [[pdf]](https://arxiv.org/pdf/2202.03278.pdf) [[code]](https://github.com/xyupeng/ContrastiveCrop)
