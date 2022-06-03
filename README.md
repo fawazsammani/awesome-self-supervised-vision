@@ -96,6 +96,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
 - [Lightly](https://github.com/lightly-ai/lightly)
+- [solo-learn](https://github.com/vturrisi/solo-learn)
 
 ## Other Awesomes
 - [jason718](https://github.com/jason718/awesome-self-supervised-learning)
