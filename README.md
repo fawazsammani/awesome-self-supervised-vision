@@ -104,7 +104,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [asheeshcric](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
 
 ## Some Nice Resources
-- [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_13.pdf)
+- [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2022/lecture_14_jiajun.pdf)
 - [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
