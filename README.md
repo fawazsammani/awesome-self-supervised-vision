@@ -40,7 +40,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MSF]** Mean Shift for Self-Supervised Learning [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/MSF_iccv21.pdf) [[code]](https://github.com/UMBCvision/MSF)
 - **[SWAG]** Revisiting Weakly Supervised Pre-Training of Visual Perception Models [[pdf]](https://arxiv.org/pdf/2201.08371.pdf) [[code]](https://github.com/facebookresearch/SWAG)
 - **[ISD]** Self-Supervised Learning by Iterative Similarity Distillation [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/ISD_iccv21.pdf) [[code]](https://github.com/UMBCvision/ISD)
-- **[OBoW]** Online Bag-of-Visual-Words Generation for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2012.11552.pdf) [[code]](https://github.com/valeoai/obow)
 - **[Self-Label]** Self-labelling via simultaneous clustering and representation learning [[pdf]](https://arxiv.org/pdf/1911.05371.pdf) [[code]](https://github.com/yukimasano/self-label)
 - **[InfoCL]** Rethinking Minimal Sufficient Representation in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.07004v2.pdf) [[code]](https://github.com/Haoqing-Wang/InfoCL)
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2011.09157.pdf) [[code]](https://github.com/WXinlong/DenseCL)
