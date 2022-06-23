@@ -47,7 +47,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InfoCL]** Rethinking Minimal Sufficient Representation in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.07004v2.pdf) [[code]](https://github.com/Haoqing-Wang/InfoCL)
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2011.09157.pdf) [[code]](https://github.com/WXinlong/DenseCL)
 - **[FlatNCE]** Breaking The log-K Curse On Contrastive Learners With FlatNCE [[pdf]](https://arxiv.org/pdf/2107.01152.pdf) [[code]](https://github.com/Junya-Chen/FlatCLR)
-- **[SelfPatch]** Patch-level Representation Learning for Self-supervised Vision Transformers [[pdf]](https://arxiv.org/pdf/2206.07990.pdf)
+- **[SelfPatch]** Patch-level Representation Learning for Self-supervised Vision Transformers [[pdf]](https://arxiv.org/pdf/2206.07990.pdf) [[code]](https://github.com/alinlab/SelfPatch)
 - **[EMAN]** Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning [[pdf]](https://arxiv.org/pdf/2101.08482.pdf) [[code]](https://github.com/amazon-research/exponential-moving-average-normalization)
 - **[MPL]** Meta Pseudo Labels [[pdf]](https://arxiv.org/pdf/2003.10580.pdf) [[code]](https://github.com/kekmodel/MPL-pytorch)
 - **[RINCE]** Robust Contrastive Learning against Noisy Views [[pdf]](https://arxiv.org/pdf/2201.04309.pdf) [[code]](https://github.com/chingyaoc/RINCE)
