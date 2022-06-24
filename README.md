@@ -44,7 +44,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SWAG]** Revisiting Weakly Supervised Pre-Training of Visual Perception Models [[pdf]](https://arxiv.org/pdf/2201.08371.pdf) [[code]](https://github.com/facebookresearch/SWAG)
 - **[ISD]** Self-Supervised Learning by Iterative Similarity Distillation [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/ISD_iccv21.pdf) [[code]](https://github.com/UMBCvision/ISD)
 - **[Self-Label]** Self-labelling via simultaneous clustering and representation learning [[pdf]](https://arxiv.org/pdf/1911.05371.pdf) [[code]](https://github.com/yukimasano/self-label)
-- **[InfoCL]** Rethinking Minimal Sufficient Representation in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.07004v2.pdf) [[code]](https://github.com/Haoqing-Wang/InfoCL)
+- **[InfoCL]** Rethinking Minimal Sufficient Representation in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.07004.pdf) [[code]](https://github.com/Haoqing-Wang/InfoCL)
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2011.09157.pdf) [[code]](https://github.com/WXinlong/DenseCL)
 - **[FlatNCE]** Breaking The log-K Curse On Contrastive Learners With FlatNCE [[pdf]](https://arxiv.org/pdf/2107.01152.pdf) [[code]](https://github.com/Junya-Chen/FlatCLR)
 - **[SelfPatch]** Patch-level Representation Learning for Self-supervised Vision Transformers [[pdf]](https://arxiv.org/pdf/2206.07990.pdf) [[code]](https://github.com/alinlab/SelfPatch)
