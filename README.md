@@ -47,6 +47,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InfoCL]** Rethinking Minimal Sufficient Representation in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.07004.pdf) [[code]](https://github.com/Haoqing-Wang/InfoCL)
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2011.09157.pdf) [[code]](https://github.com/WXinlong/DenseCL)
 - **[FlatNCE]** Breaking The log-K Curse On Contrastive Learners With FlatNCE [[pdf]](https://arxiv.org/pdf/2107.01152.pdf) [[code]](https://github.com/Junya-Chen/FlatCLR)
+- **[ARB]** Align Representations with Base: A New Approach to Self-Supervised Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Align_Representations_With_Base_A_New_Approach_to_Self-Supervised_Learning_CVPR_2022_paper.pdf)
 - **[SelfPatch]** Patch-level Representation Learning for Self-supervised Vision Transformers [[pdf]](https://arxiv.org/pdf/2206.07990.pdf) [[code]](https://github.com/alinlab/SelfPatch)
 - **[EMAN]** Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning [[pdf]](https://arxiv.org/pdf/2101.08482.pdf) [[code]](https://github.com/amazon-research/exponential-moving-average-normalization)
 - **[MPL]** Meta Pseudo Labels [[pdf]](https://arxiv.org/pdf/2003.10580.pdf) [[code]](https://github.com/kekmodel/MPL-pytorch)
