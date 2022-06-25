@@ -100,6 +100,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Hard Negative Mixing for Contrastive Learning [[pdf]](https://arxiv.org/pdf/2010.01028.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision/mochi/)
 - Robust Contrastive Learning Using Negative Samples with Diminished Semantics [[pdf]](https://arxiv.org/pdf/2110.14189.pdf) [[code]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
 - Compressive Visual Representations [[pdf]](https://arxiv.org/pdf/2109.12909v3.pdf) [[code]](https://github.com/google-research/compressive-visual-representations)
+- Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views [[pdf]](https://arxiv.org/pdf/2206.00227.pdf)
 
 ## Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
