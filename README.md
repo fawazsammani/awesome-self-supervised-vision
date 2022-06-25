@@ -105,6 +105,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
 - Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
+- A Survey on Contrastive Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
