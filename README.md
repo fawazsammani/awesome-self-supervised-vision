@@ -110,6 +110,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
 - **[CACL]** Cross-Architecture Self-supervised Video Representation Learning [[pdf]](https://arxiv.org/pdf/2205.13313.pdf) [[code]](https://github.com/guoshengcv/CACL)
 - **[BEVT]** BERT pretraining of video transformers [[pdf]](https://arxiv.org/pdf/2112.01529v3.pdf) [[code]](https://github.com/xyzforever/bevt)
+- **[SVT]** Self-supervised Video Transformer [[pdf]](https://arxiv.org/pdf/2112.01514.pdf) [[code]](https://github.com/kahnchana/svt)
 
 ## Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
