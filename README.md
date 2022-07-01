@@ -25,6 +25,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[EsViT]** Efficient Self-supervised Vision Transformers for Representation Learning [[pdf]](https://arxiv.org/pdf/2106.09785.pdf) [[code]](https://github.com/microsoft/esvit)
 - **[BEiT]** BERT Pre-Training of Image Transformers [[pdf]](https://arxiv.org/pdf/2106.08254.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit)
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[pdf]](https://arxiv.org/pdf/2111.06377.pdf) [[code]](https://github.com/facebookresearch/mae) [[code]](https://github.com/pengzhiliang/MAE-pytorch)
+- **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
 - **[ConvMAE]** Masked Convolution Meets Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2205.03892.pdf) [[code]](https://github.com/Alpha-VL/ConvMAE)
 - **[OmniMAE]** Single Model Masked Pretraining on Images and Videos [[pdf]](https://arxiv.org/pdf/2206.08356.pdf) [[code]](https://github.com/facebookresearch/omnivore)
 - **[MSN]** Masked Siamese Networks for Label-Efficient Learning [[pdf]](https://arxiv.org/pdf/2204.07141.pdf) [[code]](https://github.com/facebookresearch/msn)
