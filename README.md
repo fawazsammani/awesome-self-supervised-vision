@@ -26,7 +26,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BEiT]** BERT Pre-Training of Image Transformers [[pdf]](https://arxiv.org/pdf/2106.08254.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit)
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[pdf]](https://arxiv.org/pdf/2111.06377.pdf) [[code]](https://github.com/facebookresearch/mae) [[code]](https://github.com/pengzhiliang/MAE-pytorch)
 - **[ConvMAE]** Masked Convolution Meets Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2205.03892.pdf) [[code]](https://github.com/Alpha-VL/ConvMAE)
-- **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
 - **[OmniMAE]** Single Model Masked Pretraining on Images and Videos [[pdf]](https://arxiv.org/pdf/2206.08356.pdf) [[code]](https://github.com/facebookresearch/omnivore)
 - **[MSN]** Masked Siamese Networks for Label-Efficient Learning [[pdf]](https://arxiv.org/pdf/2204.07141.pdf) [[code]](https://github.com/facebookresearch/msn)
 - **[iBOT]** Image BERT Pre-Training with Online Tokenizer [[pdf]](https://arxiv.org/pdf/2111.07832.pdf) [[code]](https://github.com/bytedance/ibot)
@@ -106,6 +105,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views [[pdf]](https://arxiv.org/pdf/2206.00227.pdf)
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 - Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks [[pdf]](https://arxiv.org/pdf/2205.15173.pdf)
+
+## Self-Supervised Video Pre-Training 
+- **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
+- **[CACL]** Cross-Architecture Self-supervised Video Representation Learning [[pdf]](https://arxiv.org/pdf/2205.13313.pdf) [[code]](https://github.com/guoshengcv/CACL)
 
 ## Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
