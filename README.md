@@ -137,5 +137,4 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
 
 ## Not Vision, but cool to have here
-- [UniLM AI](https://github.com/facebookresearch/data2vec_vision)
 - OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[metaseq]](https://github.com/facebookresearch/metaseq) [[colab]](https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7#scrollTo=R94R2YaeQMQS&uniqifier=1) [[HF model card]](https://huggingface.co/facebook/opt-30b) [[HF docs]](https://huggingface.co/docs/transformers/model_doc/opt)
