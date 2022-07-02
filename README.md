@@ -125,6 +125,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [VISSL](https://github.com/facebookresearch/vissl)
 - [Lightly](https://github.com/lightly-ai/lightly)
 - [solo-learn](https://github.com/vturrisi/solo-learn)
+- [benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE)
 
 ## Other Awesomes
 - [jason718](https://github.com/jason718/awesome-self-supervised-learning)
