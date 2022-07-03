@@ -78,8 +78,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VICReg]** Variance-Invariance-Covariance Regularization for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2105.04906.pdf)
 - **[VQ-VAE]** Neural Discrete Representation Learning [[pdf]](https://arxiv.org/pdf/1711.00937.pdf) [[code]](https://github.com/zalandoresearch/pytorch-vq-vae) [[code]](https://github.com/ritheshkumar95/pytorch-vqvae) [[code]](https://github.com/nadavbh12/VQ-VAE) [[code]](https://github.com/nakosung/VQ-VAE) [[colab]](https://colab.research.google.com/github/zalandoresearch/pytorch-vq-vae/blob/master/vq-vae.ipynb) [[video]](https://www.youtube.com/watch?v=VZFVUrYcig0&ab_channel=TheAIEpiphany) [[blog]](https://ml.berkeley.edu/blog/posts/vq-vae/)
 - **[VQ-VAE-2]** Generating Diverse High-Fidelity Images with VQ-VAE-2 [[pdf]](https://arxiv.org/pdf/1906.00446.pdf) [[code]](https://github.com/rosinality/vq-vae-2-pytorch) [[code]](https://github.com/vvvm23/vqvae-2)
-- **[VQ-GAN]** Taming Transformers for High-Resolution Image Synthesis [[pdf]](https://arxiv.org/pdf/2012.09841.pdf) [[code]](https://github.com/CompVis/taming-transformers) [[code]](https://github.com/dome272/VQGAN-pytorch) [[website]](https://compvis.github.io/taming-transformers/) [[video]](https://www.youtube.com/watch?v=j2PXES-liuc&t=2s&ab_channel=TheAIEpiphany) [[video]](https://www.youtube.com/watch?v=wcqLFDXaDO8&ab_channel=Outlier) [[video code]](https://www.youtube.com/watch?v=_Br5WRwUz_U&ab_channel=Outlier) [[blog]](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
+- **[VQ-GAN]** Taming Transformers for High-Resolution Image Synthesis [[pdf]](https://arxiv.org/pdf/2012.09841.pdf) [[code]](https://github.com/CompVis/taming-transformers) [[code]](https://github.com/dome272/VQGAN-pytorch) [[website]](https://compvis.github.io/taming-transformers/) [[video]](https://www.youtube.com/watch?v=j2PXES-liuc&t=2s&ab_channel=TheAIEpiphany) [[video]](https://www.youtube.com/watch?v=wcqLFDXaDO8&ab_channel=Outlier) [[video]](https://www.youtube.com/watch?v=-wDSDtIAyWQ&ab_channel=GradientDude) [[video code]](https://www.youtube.com/watch?v=_Br5WRwUz_U&ab_channel=Outlier) [[blog]](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
 - **[VQGAN-CLIP]** Open Domain Image Generation and Editing with Natural Language Guidance [[pdf]](https://arxiv.org/pdf/2204.08583.pdf) [[code]](https://github.com/nerdyrodent/VQGAN-CLIP) [[code]](https://github.com/EleutherAI/vqgan-clip) [[code]](https://github.com/justinjohn0306/VQGAN-CLIP) [[code]](https://www.kaggle.com/code/basu369victor/playing-with-vqgan-clip/notebook) [[colab]](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/Moar_Settings.ipynb) [[colab]](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN) [[colab]](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb)
+- **[MC-SSL0.0]** Towards Multi-Concept Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2111.15340.pdf)
+- **[t-ReX]** Improving the Generalization of Supervised Models [[pdf]](https://arxiv.org/pdf/2206.15369.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision/improving-the-generalization-of-supervised-models/)
 - **[HCSC]** Hierarchical Contrastive Selective Coding [[pdf]](https://arxiv.org/pdf/2202.00455.pdf) [[code]](https://github.com/hirl-team/HCSC)
 - **[Mugs]** A Multi-Granular Self-Supervised Learning Framework [[pdf]](https://arxiv.org/pdf/2203.14415v1.pdf) [[code]](https://github.com/sail-sg/mugs)
 - **[RELICv2]** Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet? [[pdf]](https://arxiv.org/pdf/2201.05119v1.pdf)
@@ -88,12 +90,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DnC]** Divide and Contrast: Self-supervised Learning from Uncurated Data [[pdf]](https://arxiv.org/pdf/2105.08054v1.pdf)
 - **[DAMA]** Student Collaboration Improves Self-Supervised Learning: Dual-Loss Adaptive Masked Autoencoder for Brain Cell Image Analysis [[pdf]](https://arxiv.org/pdf/2205.05194v1.pdf) [[code]](https://github.com/hula-ai/DAMA)
 - **[HiViT]** Hierarchical Vision Transformer Meets Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.14949.pdf)
+- **[LIFT]**: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks [[pdf]](https://arxiv.org/pdf/2206.06565.pdf) [[code]](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
 - Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
 - Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
 - Solving Inefficiency of Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2104.08760v3.pdf) [[code]](https://github.com/wanggrun/triplet)
 - Self-training with Noisy Student improves ImageNet classification [[pdf]](https://arxiv.org/pdf/1911.04252.pdf) [[video]](https://www.youtube.com/watch?v=q7PjrmGNx5A&t=1565s&ab_channel=YannicKilcher)
 - Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
+- Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task [[pdf]](https://arxiv.org/pdf/2110.13435v1.pdf)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Directional Self-supervised Learning for Heavy Image Augmentations [[pdf]](https://arxiv.org/pdf/2110.13555.pdf)
 - Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework [[pdf]](https://arxiv.org/pdf/2112.05141.pdf) 
@@ -116,6 +120,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BEVT]** BERT pretraining of video transformers [[pdf]](https://arxiv.org/pdf/2112.01529v3.pdf) [[code]](https://github.com/xyzforever/bevt)
 - **[SVT]** Self-supervised Video Transformer [[pdf]](https://arxiv.org/pdf/2112.01514.pdf) [[code]](https://github.com/kahnchana/svt)
 
+## Unsupervised Semnatic Segmentation from Self-Supervised Models
+- **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
+- **[GroupViT]**: Semantic Segmentation Emerges from Text Supervision [[pdf]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://github.com/NVlabs/GroupViT)
+- Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
+
 ## Review Papers
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
 - Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
@@ -127,6 +136,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Lightly](https://github.com/lightly-ai/lightly)
 - [solo-learn](https://github.com/vturrisi/solo-learn)
 - [benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE)
+- [unilm](https://github.com/microsoft/unilm)
 
 ## Other Awesomes
 - [jason718](https://github.com/jason718/awesome-self-supervised-learning)
@@ -140,6 +150,3 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
 - Math of SSL [[Yuandong Tian's work]](https://yuandong-tian.com/) [[Spectral Embedding]](https://arxiv.org/pdf/2205.11508.pdf)
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
-
-## Not Vision, but cool to have here
-- OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[metaseq]](https://github.com/facebookresearch/metaseq) [[colab]](https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7#scrollTo=R94R2YaeQMQS&uniqifier=1) [[HF model card]](https://huggingface.co/facebook/opt-30b) [[HF docs]](https://huggingface.co/docs/transformers/model_doc/opt)
