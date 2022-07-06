@@ -36,6 +36,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CARE]** Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2110.05340.pdf) [[code]](https://github.com/ChongjianGE/CARE)
 - **[ContrastiveCrop]** Crafting Better Contrastive Views for Siamese Representation Learning [[pdf]](https://arxiv.org/pdf/2202.03278.pdf) [[code]](https://github.com/xyupeng/ContrastiveCrop)
 - **[SDMP]** A Simple Data Mixing Prior for Improving Self-Supervised Learning [[pdf]](https://cihangxie.github.io/data/SDMP.pdf) [[code]](https://github.com/OliverRensu/SDMP)
+- **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/openai/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[website]](https://openai.com/blog/image-gpt/)
+- **[CAE]** Context Autoencoder for Self-Supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2202.03026.pdf) [[code]](https://github.com/lxtGH/CAE)
 - **[ADIOS]** Adversarial Masking for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2201.13100.pdf)
 - **[ReSSL]** Relational Self-Supervised Learning with Weak Augmentation [[pdf]](https://arxiv.org/pdf/2107.09282.pdf) [[code]](https://github.com/KyleZheng1997/ReSSL)
 - **[DCL]** Decoupled Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.06848.pdf) [[code]](https://github.com/raminnakhli/Decoupled-Contrastive-Learning)
@@ -133,6 +135,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
+- [mmselfsup](https://github.com/open-mmlab/mmselfsup)
 - [Lightly](https://github.com/lightly-ai/lightly)
 - [solo-learn](https://github.com/vturrisi/solo-learn)
 - [benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE)
