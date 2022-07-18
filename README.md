@@ -114,6 +114,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views [[pdf]](https://arxiv.org/pdf/2206.00227.pdf)
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 - Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks [[pdf]](https://arxiv.org/pdf/2205.15173.pdf)
+- Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
 
 ## Self-Supervised Video Pre-Training 
 - **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
