@@ -93,7 +93,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DAMA]** Student Collaboration Improves Self-Supervised Learning: Dual-Loss Adaptive Masked Autoencoder for Brain Cell Image Analysis [[pdf]](https://arxiv.org/pdf/2205.05194v1.pdf) [[code]](https://github.com/hula-ai/DAMA)
 - **[HiViT]** Hierarchical Vision Transformer Meets Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.14949.pdf)
 - **[LIFT]**: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks [[pdf]](https://arxiv.org/pdf/2206.06565.pdf) [[code]](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
-- **[VICReg] What Do We Maximize in Self-Supervised Learning? [[pdf]](https://arxiv.org/pdf/2207.10081v1.pdf)
+- **[VICReg]** What Do We Maximize in Self-Supervised Learning? [[pdf]](https://arxiv.org/pdf/2207.10081v1.pdf)
 - Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
 - Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
 - Solving Inefficiency of Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2104.08760v3.pdf) [[code]](https://github.com/wanggrun/triplet)
