@@ -124,9 +124,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BEVT]** BERT pretraining of video transformers [[pdf]](https://arxiv.org/pdf/2112.01529v3.pdf) [[code]](https://github.com/xyzforever/bevt)
 - **[SVT]** Self-supervised Video Transformer [[pdf]](https://arxiv.org/pdf/2112.01514.pdf) [[code]](https://github.com/kahnchana/svt)
 
-## Unsupervised Semnatic Segmentation from Self-Supervised Models
+## Unsupervised Semantic Segmentation from Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
 - **[GroupViT]**: Semantic Segmentation Emerges from Text Supervision [[pdf]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://github.com/NVlabs/GroupViT)
+- **[LOST]** Localizing Objects with Self-Supervised Transformers and no Labels [[pdf]](https://arxiv.org/pdf/2109.14279.pdf) [[code]](https://github.com/valeoai/LOST)
 - Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
 
 ## Review Papers
@@ -153,5 +154,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
+- Lil'Log [[Self-Supervised Representation Learning]](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) [[Contrastive Representation Learning]](https://lilianweng.github.io/posts/2021-05-31-contrastive/) [[Semi-Supervised Learning]](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) [[Active Learning]](https://lilianweng.github.io/posts/2022-02-20-active-learning/) [[Data Generation]](https://lilianweng.github.io/posts/2022-04-15-data-gen/)
 - Math of SSL [[Yuandong Tian's work]](https://yuandong-tian.com/) [[Spectral Embedding]](https://arxiv.org/pdf/2205.11508.pdf)
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
