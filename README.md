@@ -128,6 +128,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
 - Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting)
 - Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
+- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 
 ## Self-Supervised Video Pre-Training 
 - **[VideoMAE]** Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[pdf]](https://arxiv.org/pdf/2203.12602.pdf) [[code]](https://github.com/MCG-NJU/VideoMAE)
