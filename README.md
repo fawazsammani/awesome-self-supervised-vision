@@ -126,7 +126,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 - Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks [[pdf]](https://arxiv.org/pdf/2205.15173.pdf)
 - Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
-- Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting)
+- Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
 - Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 
