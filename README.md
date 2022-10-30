@@ -89,6 +89,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[t-ReX]** Improving the Generalization of Supervised Models [[pdf]](https://arxiv.org/pdf/2206.15369.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision/improving-the-generalization-of-supervised-models/)
 - **[HCSC]** Hierarchical Contrastive Selective Coding [[pdf]](https://arxiv.org/pdf/2202.00455.pdf) [[code]](https://github.com/hirl-team/HCSC)
 - **[Mugs]** A Multi-Granular Self-Supervised Learning Framework [[pdf]](https://arxiv.org/pdf/2203.14415v1.pdf) [[code]](https://github.com/sail-sg/mugs)
+- **[BatchFormer]** Learning to Explore Sample Relationships for Robust Representation Learning [[pdf]](https://arxiv.org/pdf/2203.01522.pdf) [[code]](https://github.com/zhihou7/BatchFormer)
 - **[RELICv2]** Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet? [[pdf]](https://arxiv.org/pdf/2201.05119v1.pdf)
 - **[TWIST]** Self-Supervised Learning by Estimating Twin Class Distributions [[pdf]](https://arxiv.org/pdf/2110.07402v4.pdf) [[code]](https://github.com/bytedance/TWIST)
 - **[CaCo]** Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.14370v1.pdf) [[code]](https://github.com/maple-research-lab/caco)
