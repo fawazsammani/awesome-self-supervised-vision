@@ -88,7 +88,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Propagate Yourself]** Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10043.pdf) [[code]](https://github.com/zdaxie/PixPro)
 - **[SDCLR]** Self-Damaging Contrastive Learning [[pdf]](https://arxiv.org/pdf/2106.02990.pdf) [[code]](https://github.com/VITA-Group/SDCLR)
 - Self-Supervised Relational Reasoning for Representation Learning [[pdf]](https://arxiv.org/pdf/2006.05849.pdf) [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
-- Exploring Long-Sequence Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2210.07224.pdf) [[code]](https://github.com/facebookresearch/long_seq_mae)
 - Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
 - Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
 - Solving Inefficiency of Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2104.08760v3.pdf) [[code]](https://github.com/wanggrun/triplet)
