@@ -117,24 +117,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 
 ## Masked Image Pretraining
+Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
 - **[BEiT]** BERT Pre-Training of Image Transformers [[pdf]](https://arxiv.org/pdf/2106.08254.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit)
-- **[mc-BEiT]**: Multi-choice Discretization for Image BERT Pre-training [[pdf]](https://arxiv.org/pdf/2203.15371v4.pdf) [[code]](https://github.com/lixiaotong97/mc-beit)
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[pdf]](https://arxiv.org/pdf/2111.06377.pdf) [[code]](https://github.com/facebookresearch/mae) [[code]](https://github.com/pengzhiliang/MAE-pytorch) [[code]](https://github.com/FlyEgle/MAE-pytorch)
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
-- **[CAN]** A simple, efficient and scalable contrastive masked autoencoder for learning visual representations [[pdf]](https://arxiv.org/pdf/2210.16870.pdf)
-- **[MSN]** Masked Siamese Networks for Label-Efficient Learning [[pdf]](https://arxiv.org/pdf/2204.07141.pdf) [[code]](https://github.com/facebookresearch/msn)
-- **[ConvMAE]** Masked Convolution Meets Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2205.03892.pdf) [[code]](https://github.com/Alpha-VL/ConvMAE)
-- **[OmniMAE]** Single Model Masked Pretraining on Images and Videos [[pdf]](https://arxiv.org/pdf/2206.08356.pdf) [[code]](https://github.com/facebookresearch/omnivore)
-- **[iBOT]** Image BERT Pre-Training with Online Tokenizer [[pdf]](https://arxiv.org/pdf/2111.07832.pdf) [[code]](https://github.com/bytedance/ibot)
-- **[dBOT]** Exploring Target Representations for Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2209.03917v1.pdf)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
-- **[CAE]** Context Autoencoder for Self-Supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2202.03026.pdf) [[code]](https://github.com/lxtGH/CAE)
-- **[ADIOS]** Adversarial Masking for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2201.13100.pdf)
-- **[BEVT]** BERT Pretraining of Video Transformers [[pdf]](https://arxiv.org/pdf/2112.01529v3.pdf) [[code]](https://github.com/xyzforever/BEVT)
-- **[HiViT]** Hierarchical Vision Transformer Meets Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.14949.pdf)
-- Contextual Representation Learning beyond Masked Language Modeling [[pdf]](https://arxiv.org/pdf/2204.04163v1.pdf) [[code]](https://github.com/fuzhiyi/taco)
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
-
 
 ## Unsupervised Semantic Segmentation from Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
