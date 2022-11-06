@@ -16,6 +16,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BYOL works!]** BYOL works even without batch statistics [[pdf]](https://arxiv.org/pdf/2010.10241.pdf)
 - **[C-BYOL]** Compressive Visual Representations [[pdf]](https://arxiv.org/pdf/2109.12909v3.pdf) [[code]](https://github.com/google-research/compressive-visual-representations)
 - **[DeepCluster]** Deep Clustering for Unsupervised Learning of Visual Features [[pdf]](https://arxiv.org/pdf/1807.05520.pdf) [[code]](https://github.com/facebookresearch/deepcluster)
+- **[DeeperCluster]** Unsupervised Pre-Training of Image Features on Non-Curated Data [[pdf]](https://arxiv.org/pdf/1905.01278v3.pdf) [[code]](https://github.com/facebookresearch/DeeperCluster)
 - **[SWAV]** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[pdf]](https://arxiv.org/pdf/2006.09882.pdf) [[code]](https://github.com/facebookresearch/swav) [[video]](https://www.youtube.com/watch?v=7QmsTleiRLs&t=4s&ab_channel=PyTorchLightning) [[video]](https://www.youtube.com/watch?v=t8gr9N7kmUk&ab_channel=Cheng-YangFu)
 - **[SimSiam]** Exploring Simple Siamese Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10566.pdf) [[code]](https://github.com/facebookresearch/simsiam)
 - **[Barlow Twins]** Self-Supervised Learning via Redundancy Reduction [[pdf]](https://arxiv.org/pdf/2103.03230.pdf) [[code]](https://github.com/facebookresearch/barlowtwins) [[code]](https://github.com/IgorSusmelj/barlowtwins)
