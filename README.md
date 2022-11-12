@@ -115,6 +115,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
 - Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
+- A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
 
 ## Masked Image Pretraining
 Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
