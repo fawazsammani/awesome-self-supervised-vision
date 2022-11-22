@@ -116,7 +116,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 - A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
-- Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[code]](https://github.com/paperswithcode/galai) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
+- Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
 
 ## Masked Image Pretraining
 Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
