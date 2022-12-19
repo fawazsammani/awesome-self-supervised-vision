@@ -111,13 +111,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views [[pdf]](https://arxiv.org/pdf/2206.00227.pdf)
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 - Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks [[pdf]](https://arxiv.org/pdf/2205.15173.pdf)
-- Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
-- Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
-- Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
-- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
-- A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
-- OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
-- Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
 
 ## Masked Image Pretraining
 Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
@@ -138,6 +131,18 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
 - A Survey on Contrastive Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
+
+## Miscellaneous
+- GPT3: Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/pdf/2005.14165.pdf)
+- Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
+- Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
+- Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
+- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
+- A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
+- OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
+- Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
+- Multitask Prompted Training Enables Zero-Shot Task Generalization [[pdf]](https://arxiv.org/abs/2110.08207)
+- Crosslingual Generalization through Multitask Finetuning [[pdf]](https://arxiv.org/abs/2211.01786)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
