@@ -143,6 +143,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
 - Multitask Prompted Training Enables Zero-Shot Task Generalization [[pdf]](https://arxiv.org/abs/2110.08207)
 - Crosslingual Generalization through Multitask Finetuning [[pdf]](https://arxiv.org/abs/2211.01786)
+- Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[pdf]](https://arxiv.org/pdf/2212.09689.pdf) [[code]](https://github.com/orhonovich/unnatural-instructions)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
