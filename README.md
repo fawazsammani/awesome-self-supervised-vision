@@ -133,7 +133,6 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - A Survey on Contrastive Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
 
 ## Miscellaneous
-- GPT3: Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/pdf/2005.14165.pdf)
 - Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
 - Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
 - Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
@@ -144,6 +143,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Multitask Prompted Training Enables Zero-Shot Task Generalization [[pdf]](https://arxiv.org/abs/2110.08207)
 - Crosslingual Generalization through Multitask Finetuning [[pdf]](https://arxiv.org/abs/2211.01786)
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[pdf]](https://arxiv.org/pdf/2212.09689.pdf) [[code]](https://github.com/orhonovich/unnatural-instructions)
+- ChatGPT [[blog]](https://openai.com/blog/chatgpt/) [[RLHF]](https://arxiv.org/pdf/2009.01325.pdf) [[InstructGPT]](https://arxiv.org/pdf/2203.02155.pdf) [[InstructGPT blog]](https://openai.com/blog/instruction-following/) [[GPT-3]](https://arxiv.org/pdf/2005.14165.pdf) [[rlhf HF]](https://huggingface.co/blog/rlhf) [[code]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
