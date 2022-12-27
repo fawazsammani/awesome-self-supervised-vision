@@ -145,6 +145,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor [[pdf]](https://arxiv.org/pdf/2212.09689.pdf) [[code]](https://github.com/orhonovich/unnatural-instructions)
 - ChatGPT [[blog]](https://openai.com/blog/chatgpt/) [[RLHF]](https://arxiv.org/pdf/2009.01325.pdf) [[InstructGPT]](https://arxiv.org/pdf/2203.02155.pdf) [[InstructGPT blog]](https://openai.com/blog/instruction-following/) [[GPT-3]](https://arxiv.org/pdf/2005.14165.pdf) [[rlhf HF]](https://huggingface.co/blog/rlhf) [[code]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions [[pdf]](https://arxiv.org/pdf/2212.10560.pdf) [[code]](https://github.com/yizhongw/self-instruct)
+- Large Language Models Are Reasoning Teachers [[pdf]](https://arxiv.org/pdf/2212.10071.pdf) [[code]](https://github.com/itsnamgyu/reasoning-teacher)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
