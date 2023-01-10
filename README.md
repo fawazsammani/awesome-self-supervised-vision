@@ -116,6 +116,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Masked Image Pretraining
 Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
 - **[BEiT]** BERT Pre-Training of Image Transformers [[pdf]](https://arxiv.org/pdf/2106.08254.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit)
+- **[BEiT v2]** Masked Image Modeling with Vector-Quantized Visual Tokenizers [[pdf]](https://arxiv.org/pdf/2208.06366.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit2)
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[pdf]](https://arxiv.org/pdf/2111.06377.pdf) [[code]](https://github.com/facebookresearch/mae) [[code]](https://github.com/pengzhiliang/MAE-pytorch) [[code]](https://github.com/FlyEgle/MAE-pytorch)
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
