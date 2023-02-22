@@ -123,10 +123,13 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 
-## Unsupervised Semantic Segmentation from Self-Supervised Models
+## Unsupervised Semantic Segmentation With/Using Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
 - **[GroupViT]**: Semantic Segmentation Emerges from Text Supervision [[pdf]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://github.com/NVlabs/GroupViT)
 - **[LOST]** Localizing Objects with Self-Supervised Transformers and no Labels [[pdf]](https://arxiv.org/pdf/2109.14279.pdf) [[code]](https://github.com/valeoai/LOST)
+- **[MaskContrast]** Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals [[pdf]](https://arxiv.org/pdf/2102.06191.pdf) [[code]](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)
+- **[MaskDistill]** Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2206.06363v1.pdf) [[code]](https://github.com/wvangansbeke/MaskDistill)
+- **[Leopart]** Self-Supervised Learning of Object Parts for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2204.13101v2.pdf) [[code]](https://github.com/mkuuwaujinga/leopart)
 - Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
 
 ## Review Papers
