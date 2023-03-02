@@ -158,6 +158,8 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - ChatGPT [[blog]](https://openai.com/blog/chatgpt/) [[RLHF]](https://arxiv.org/pdf/2009.01325.pdf) [[InstructGPT]](https://arxiv.org/pdf/2203.02155.pdf) [[InstructGPT blog]](https://openai.com/blog/instruction-following/) [[rlhf HF]](https://huggingface.co/blog/rlhf) [[code]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions [[pdf]](https://arxiv.org/pdf/2212.10560.pdf) [[code]](https://github.com/yizhongw/self-instruct)
 - Large Language Models Are Reasoning Teachers [[pdf]](https://arxiv.org/pdf/2212.10071.pdf) [[code]](https://github.com/itsnamgyu/reasoning-teacher)
+- Cramming: Training a Language Model on a Single GPU in One Day [[pdf]](https://arxiv.org/pdf/2212.14034.pdf) 
+- Downstream Datasets Make Surprisingly Good Pretraining Corpora [[pdf]](https://arxiv.org/pdf/2209.14389.pdf)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
