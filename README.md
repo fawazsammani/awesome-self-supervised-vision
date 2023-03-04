@@ -7,6 +7,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[]** Paper Name [[pdf]]() [[code]]()
 ```
 
+Note: most pretrained models can be found on [hf models](https://huggingface.co/models)
+
 ## Papers
 
 - **[SimCLR]** A Simple Framework for Contrastive Learning of Visual Representations [[pdf]](https://arxiv.org/pdf/2002.05709.pdf) [[code]](https://github.com/google-research/simclr) [[code]](https://github.com/leftthomas/SimCLR) [[code]](https://github.com/ae-foster/pytorch-simclr) [[code]](https://github.com/sthalles/SimCLR) [[code]](https://github.com/AndrewAtanov/simclr-pytorch) [[code]](https://github.com/tonylins/simclr-converter) [[video]](https://www.youtube.com/watch?v=a7-qwwAFs_s&t=215s) [[video]](https://www.youtube.com/watch?v=YZgeWsuyRH8&ab_channel=AIBites)
