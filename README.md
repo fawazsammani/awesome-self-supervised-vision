@@ -148,7 +148,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 ## Miscellaneous
 - Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
 - Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
-- Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
+- SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 - A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
 - OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
