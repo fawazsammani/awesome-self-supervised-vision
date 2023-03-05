@@ -7,7 +7,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[]** Paper Name [[pdf]]() [[code]]()
 ```
 
-Note: most pretrained models can be found on [hf models](https://huggingface.co/models)
+Note: most pretrained models can be found on [hf models](https://huggingface.co/models). You can also use it in the [hugging face](https://huggingface.co/docs/transformers/index) library as long as the model is supported. For example, you can use the [ViTModel](https://huggingface.co/docs/transformers/model_doc/vit) and load [dino](https://huggingface.co/facebook/dino-vits8) weights. 
 
 ## Papers
 
@@ -146,11 +146,12 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - A Survey on Contrastive Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
 
 ## Miscellaneous
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903.pdf) [[blog]](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html?m=1)
 - Generating Datasets with Pretrained Language Models [[pdf]](https://arxiv.org/pdf/2104.07540.pdf) [[code]](https://github.com/timoschick/dino)
 - Ask Me Anything: A simple strategy for prompting language models [[pdf]](https://arxiv.org/pdf/2210.02441.pdf) [[code]](https://github.com/HazyResearch/ama_prompting) [[video]](https://www.youtube.com/watch?v=uNe5QGOJykE)
 - SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
-- The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf)
+- The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1)
 - LoRA: Low-Rank Adaptation of Large Language Models [[pdf]](https://arxiv.org/pdf/2106.09685.pdf) [[code]](https://github.com/microsoft/LoRA) [[code]](https://github.com/huggingface/peft) [[colab]](https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) [[blog]](https://huggingface.co/blog/peft)
 - A Contrastive Framework for Neural Text Generation [[pdf]](https://arxiv.org/pdf/2202.06417.pdf) [[code]](https://github.com/yxuansu/SimCTG) [[colab]](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/115_introducing_contrastive_search.ipynb) [[demo]](https://huggingface.co/spaces/joaogante/contrastive_search_generation) [[blog]](https://huggingface.co/blog/introducing-csearch)
 - OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
