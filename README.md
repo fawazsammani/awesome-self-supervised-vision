@@ -90,6 +90,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[VICRegL]** Self-Supervised Learning of Local Visual Features [[pdf]](https://arxiv.org/pdf/2210.01571.pdf) [[code]](https://github.com/facebookresearch/VICRegL)
 - **[Propagate Yourself]** Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10043.pdf) [[code]](https://github.com/zdaxie/PixPro)
 - **[SDCLR]** Self-Damaging Contrastive Learning [[pdf]](https://arxiv.org/pdf/2106.02990.pdf) [[code]](https://github.com/VITA-Group/SDCLR)
+- What makes instance discrimination good for transfer learning? [[pdf]](https://arxiv.org/pdf/2006.06606.pdf) [[website]](http://nxzhao.com/projects/good_transfer/)
 - Self-Supervised Relational Reasoning for Representation Learning [[pdf]](https://arxiv.org/pdf/2006.05849.pdf) [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
 - Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
 - Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
