@@ -141,6 +141,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
 
 ## Review Papers
+- A Cookbook of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2304.12210.pdf)
 - Self-Supervised Representation Learning: Introduction, Advances and Challenges [[pdf]](https://arxiv.org/pdf/2110.09327.pdf)
 - Self-supervised Learning: Generative or Contrastive [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
