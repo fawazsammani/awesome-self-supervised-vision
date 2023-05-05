@@ -120,7 +120,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - **[BEiT]** BERT Pre-Training of Image Transformers [[pdf]](https://arxiv.org/pdf/2106.08254.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit)
 - **[BEiT v2]** Masked Image Modeling with Vector-Quantized Visual Tokenizers [[pdf]](https://arxiv.org/pdf/2208.06366.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit2)
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[pdf]](https://arxiv.org/pdf/2111.06377.pdf) [[code]](https://github.com/facebookresearch/mae) [[code]](https://github.com/pengzhiliang/MAE-pytorch) [[code]](https://github.com/FlyEgle/MAE-pytorch)
-- **[ConvNeXt V2]**  Co-designing and Scaling ConvNets with Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2301.00808.pdf) [[code]](https://github.com/facebookresearch/ConvNeXt-V2)
+- **[ConvNeXt v2]**  Co-designing and Scaling ConvNets with Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2301.00808.pdf) [[code]](https://github.com/facebookresearch/ConvNeXt-V2)
 - **[SparK]** Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling [[pdf]](https://arxiv.org/pdf/2301.03580.pdf) [[code]](https://github.com/keyu-tian/SparK)
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
