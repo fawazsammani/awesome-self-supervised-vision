@@ -99,7 +99,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Self-training with Noisy Student improves ImageNet classification [[pdf]](https://arxiv.org/pdf/1911.04252.pdf) [[video]](https://www.youtube.com/watch?v=q7PjrmGNx5A&t=1565s&ab_channel=YannicKilcher)
 - Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
-- Revealing the Dark Secrets of Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.13543.pdf)
 - Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task [[pdf]](https://arxiv.org/pdf/2110.13435v1.pdf)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Directional Self-supervised Learning for Heavy Image Augmentations [[pdf]](https://arxiv.org/pdf/2110.13555.pdf)
@@ -127,6 +126,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
+- Revealing the Dark Secrets of Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.13543.pdf)
 
 ## Vision Self-Supervision + Supervised Language 
 - **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://people.eecs.berkeley.edu/~daw/papers/slip-eccv22.pdf) [[code]](https://github.com/facebookresearch/SLIP)
