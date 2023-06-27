@@ -85,7 +85,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CaCo]** Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.14370v1.pdf) [[code]](https://github.com/maple-research-lab/caco)
 - **[DnC]** Divide and Contrast: Self-supervised Learning from Uncurated Data [[pdf]](https://arxiv.org/pdf/2105.08054v1.pdf)
 - **[LIFT]**: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks [[pdf]](https://arxiv.org/pdf/2206.06565.pdf) [[code]](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
-- **[OFA]**: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [[pdf]](https://arxiv.org/pdf/2202.03052v2.pdf) [[code]](https://github.com/ofa-sys/ofa)
 - **[VICReg]** What Do We Maximize in Self-Supervised Learning? [[pdf]](https://arxiv.org/pdf/2207.10081v1.pdf)
 - **[VICRegL]** Self-Supervised Learning of Local Visual Features [[pdf]](https://arxiv.org/pdf/2210.01571.pdf) [[code]](https://github.com/facebookresearch/VICRegL)
 - **[Propagate Yourself]** Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2011.10043.pdf) [[code]](https://github.com/zdaxie/PixPro)
