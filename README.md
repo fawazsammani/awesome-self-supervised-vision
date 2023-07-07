@@ -166,7 +166,6 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Cramming: Training a Language Model on a Single GPU in One Day [[pdf]](https://arxiv.org/pdf/2212.14034.pdf) 
 - Downstream Datasets Make Surprisingly Good Pretraining Corpora [[pdf]](https://arxiv.org/pdf/2209.14389.pdf)
 - Fake it till you make it: Learning(s) from a synthetic ImageNet clone [[pdf]](https://arxiv.org/pdf/2212.08420.pdf)
-- I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification [[pdf]](https://arxiv.org/pdf/2212.02291.pdf)
 - FCM: Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models [[pdf]](https://arxiv.org/pdf/2210.13432.pdf) [[code]](https://github.com/lucidrains/x-transformers)
 - Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes [[pdf]](https://arxiv.org/pdf/2305.02301.pdf)
 - Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
