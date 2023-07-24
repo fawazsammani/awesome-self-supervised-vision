@@ -132,7 +132,6 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2112.09133.pdf)
 - **[SimMIM]** A Simple Framework for Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2111.09886.pdf) [[code]](https://github.com/microsoft/SimMIM)
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
-- Revealing the Dark Secrets of Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.13543.pdf)
 
 ## Unsupervised Semantic Segmentation With/Using Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
