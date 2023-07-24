@@ -134,11 +134,6 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 - Revealing the Dark Secrets of Masked Image Modeling [[pdf]](https://arxiv.org/pdf/2205.13543.pdf)
 
-## Vision Self-Supervision + Supervised Language 
-- **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://people.eecs.berkeley.edu/~daw/papers/slip-eccv22.pdf) [[code]](https://github.com/facebookresearch/SLIP)
-- **[M3AE]** Multimodal Masked Autoencoders Learn Transferable Representations [[pdf]](https://arxiv.org/pdf/2205.14204.pdf) [[code]](https://github.com/young-geng/m3ae_public)
-- Self Supervision Does Not Help Natural Language Supervision at Scale [[pdf]](https://arxiv.org/pdf/2301.07836.pdf)
-
 ## Unsupervised Semantic Segmentation With/Using Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
 - **[GroupViT]**: Semantic Segmentation Emerges from Text Supervision [[pdf]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://github.com/NVlabs/GroupViT)
