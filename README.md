@@ -150,10 +150,7 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - A Survey on Contrastive Self-supervised Learning [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
 
 ## Miscellaneous
-- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903.pdf) [[blog]](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html?m=1)
 - SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
-- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
-- The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1)
 - LoRA: Low-Rank Adaptation of Large Language Models [[pdf]](https://arxiv.org/pdf/2106.09685.pdf) [[code]](https://github.com/microsoft/LoRA) [[code]](https://github.com/huggingface/peft) [[colab]](https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) [[blog]](https://huggingface.co/blog/peft)
 - QLoRA: Efficient Finetuning of Quantized LLMs [[pdf]](https://arxiv.org/pdf/2305.14314.pdf) [[code]](https://github.com/artidoro/qlora) [[demo]](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) [[blog]](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
@@ -169,8 +166,18 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - Downstream Datasets Make Surprisingly Good Pretraining Corpora [[pdf]](https://arxiv.org/pdf/2209.14389.pdf)
 - FCM: Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models [[pdf]](https://arxiv.org/pdf/2210.13432.pdf) [[code]](https://github.com/lucidrains/x-transformers)
 - Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes [[pdf]](https://arxiv.org/pdf/2305.02301.pdf)
-- Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
 - Deep Learning Tuning Playbook [[github]](https://github.com/google-research/tuning_playbook)
+<br>
+**Prompting**
+<br>
+- The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[code]](https://github.com/google-research/prompt-tuning) [[code]](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1) [[blog]](https://heidloff.net/article/introduction-to-prompt-tuning/)
+- Prefix-Tuning: Optimizing Continuous Prompts for Generation [[pdf]](https://arxiv.org/pdf/2101.00190.pdf)
+- GPT Understands, Too [[pdf]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
+- Making Pre-trained Language Models Better Few-shot Learners [[pdf]](https://arxiv.org/pdf/2012.15723.pdf) [[code]](https://github.com/princeton-nlp/LM-BFF)
+- AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [[pdf]](https://arxiv.org/pdf/2010.15980.pdf)
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903.pdf) [[blog]](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html?m=1)
+- Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 
 ## Libraries
 - [VISSL](https://github.com/facebookresearch/vissl)
