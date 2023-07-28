@@ -99,6 +99,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[SiameseIM]** Siamese Image Modeling for Self-Supervised Vision Representation Learning [[pdf]](https://arxiv.org/pdf/2206.01204.pdf) [[code]](https://github.com/fundamentalvision/Siamese-Image-Modeling)
 - **[MixedAE]** Mixed Autoencoder for Self-supervised Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2303.17152.pdf)
 - **[CIM]** Correlational Image Modeling for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2303.12670.pdf) [[code]](https://github.com/weivision/Correlational-Image-Modeling)
+- **[VD]** Variable Discretization for Self-Supervised Learning [[pdf]](https://openreview.net/pdf?id=p7DIDSzT8x)
 - Evolved Part Masking for Self-Supervised Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Evolved_Part_Masking_for_Self-Supervised_Learning_CVPR_2023_paper.pdf)
 - Semi-supervised learning made simple with self-supervised clustering [[pdf]](https://arxiv.org/pdf/2306.07483.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
