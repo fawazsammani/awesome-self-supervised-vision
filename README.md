@@ -170,7 +170,6 @@ Main papers which introduced the concepts are below. Follow-up papers are includ
 - [OpenAI NeurIPS Tutorial](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 - [Amit Chaudhary](https://amitness.com/archives/)
 - [AI Summer](https://theaisummer.com/topics/unsupervised-learning/)
-- [Prompting in Vision CVPR23 Tutorial](https://prompting-in-vision.github.io/)
 - Lil'Log [[Self-Supervised Representation Learning]](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) [[Contrastive Representation Learning]](https://lilianweng.github.io/posts/2021-05-31-contrastive/) [[Semi-Supervised Learning]](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) [[Active Learning]](https://lilianweng.github.io/posts/2022-02-20-active-learning/) [[Data Generation]](https://lilianweng.github.io/posts/2022-04-15-data-gen/)
 - Math of SSL [[Yuandong Tian's work]](https://yuandong-tian.com/) [[Spectral Embedding]](https://arxiv.org/pdf/2205.11508.pdf)
 - Optimal Transport and Hungarian Algorithm [[blog]](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/) [[blog]](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59) [[blog]](https://leimao.github.io/blog/Hungarian-Matching-Algorithm/) [[blog]](https://brilliant.org/wiki/hungarian-matching/) [[blog]](https://www.topcoder.com/thrive/articles/Assignment%20Problem%20and%20Hungarian%20Algorithm) [[blog]](https://medium.com/@riya.tendulkar/the-assignment-problem-using-hungarian-algorithm-4f105729af18)
