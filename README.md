@@ -102,7 +102,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Evolved Part Masking for Self-Supervised Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Evolved_Part_Masking_for_Self-Supervised_Learning_CVPR_2023_paper.pdf)
 - Semi-supervised learning made simple with self-supervised clustering [[pdf]](https://arxiv.org/pdf/2306.07483.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
-- What makes instance discrimination good for transfer learning? [[pdf]](https://arxiv.org/pdf/2006.06606.pdf) [[website]](http://nxzhao.com/projects/good_transfer/)
 - Self-Supervised Relational Reasoning for Representation Learning [[pdf]](https://arxiv.org/pdf/2006.05849.pdf) [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
 - Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
 - Solving Inefficiency of Self-supervised Representation Learning [[pdf]](https://arxiv.org/pdf/2104.08760v3.pdf) [[code]](https://github.com/wanggrun/triplet)
