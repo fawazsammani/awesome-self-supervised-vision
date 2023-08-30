@@ -38,7 +38,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/openai/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[website]](https://openai.com/blog/image-gpt/)
 - **[ReSSL]** Relational Self-Supervised Learning with Weak Augmentation [[pdf]](https://arxiv.org/pdf/2107.09282.pdf) [[code]](https://github.com/KyleZheng1997/ReSSL)
 - **[DCL]** Decoupled Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.06848.pdf) [[code]](https://github.com/raminnakhli/Decoupled-Contrastive-Learning)
-- **[SSL-Transfer]** How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/pdf/2011.13377.pdf) [[code]](https://github.com/linusericsson/ssl-transfer)
 - **[LEWEL]** Learning Where to Learn in Cross-View Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2203.14898.pdf) [[code]](https://github.com/LayneH/LEWEL)
 - **[MSF]** Mean Shift for Self-Supervised Learning [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/MSF_iccv21.pdf) [[code]](https://github.com/UMBCvision/MSF)
 - **[SWAG]** Revisiting Weakly Supervised Pre-Training of Visual Perception Models [[pdf]](https://arxiv.org/pdf/2201.08371.pdf) [[code]](https://github.com/facebookresearch/SWAG)
