@@ -107,7 +107,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Directional Self-supervised Learning for Heavy Image Augmentations [[pdf]](https://arxiv.org/pdf/2110.13555.pdf)
 - Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework [[pdf]](https://arxiv.org/pdf/2112.05141.pdf) 
-- Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 - Representation Learning via Invariant Causal Mechanisms [[pdf]](https://arxiv.org/pdf/2010.07922.pdf)
 - Hard Negative Mixing for Contrastive Learning [[pdf]](https://arxiv.org/pdf/2010.01028.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision/mochi/)
 - Robust Contrastive Learning Using Negative Samples with Diminished Semantics [[pdf]](https://arxiv.org/pdf/2110.14189.pdf) [[code]](https://github.com/SongweiGe/Contrastive-Learning-with-Non-Semantic-Negatives)
