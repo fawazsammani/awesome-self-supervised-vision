@@ -113,6 +113,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Compressive Visual Representations [[pdf]](https://arxiv.org/pdf/2109.12909v3.pdf) [[code]](https://github.com/google-research/compressive-visual-representations)
 - Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views [[pdf]](https://arxiv.org/pdf/2206.00227.pdf)
 - Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks [[pdf]](https://arxiv.org/pdf/2205.15173.pdf)
+- Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems [[pdf]](https://arxiv.org/pdf/2303.01669.pdf) [[code]](https://github.com/GANPerf/LCR)
 
 ## Masked Image Pretraining
 Main papers which introduced the concepts are below. Follow-up papers are included in the awesome-repo below. 
