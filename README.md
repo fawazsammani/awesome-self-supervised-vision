@@ -29,6 +29,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[DINOv2]** Learning Robust Visual Features without Supervision [[pdf]](https://arxiv.org/pdf/2304.07193.pdf) [[code]](https://github.com/facebookresearch/dinov2) [[code]](https://huggingface.co/docs/transformers/main/en/model_doc/dinov2) [[blog]](https://ai.meta.com/blog/dino-v2-computer-vision-self-supervised-learning/) [[demo]](https://dinov2.metademolab.com/)
 - **[EsViT]** Efficient Self-supervised Vision Transformers for Representation Learning [[pdf]](https://arxiv.org/pdf/2106.09785.pdf) [[code]](https://github.com/microsoft/esvit)
 - **[iBOT]** Image BERT Pre-Training with Online Tokenizer [[pdf]](https://arxiv.org/pdf/2111.07832.pdf) [[code]](https://github.com/bytedance/ibot)
+- **[SiT]** Self-supervised vIsion Transformer [[pdf]](https://arxiv.org/pdf/2104.03602.pdf) [[code]](https://github.com/Sara-Ahmed/SiT)
 - **[Asym-Siam]** On the Importance of Asymmetry for Siamese Representation Learning [[pdf]](https://arxiv.org/pdf/2204.00613.pdf) [[code]](https://github.com/facebookresearch/asym-siam) 
 - **[DetCon]** Efficient Visual Pretraining with Contrastive Detection [[pdf]](https://arxiv.org/pdf/2103.10957.pdf) [[code]](https://github.com/isaaccorley/detcon-pytorch) [[video]](https://www.youtube.com/watch?v=oPfu_Ec5u60&t=1225s&ab_channel=TheAIEpiphany)
 - **[MoBY]** Self-Supervised Learning with Swin Transformers [[pdf]](https://arxiv.org/pdf/2105.04553.pdf) [[code]](https://github.com/SwinTransformer/Transformer-SSL)
