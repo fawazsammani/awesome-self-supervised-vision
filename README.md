@@ -7,7 +7,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[]** Paper Name [[pdf]]() [[code]]()
 ```
 
-Note: most pretrained models can be found on [hf models](https://huggingface.co/models). You can also use it in the [hugging face](https://huggingface.co/docs/transformers/index) library as long as the model is supported. For example, you can use the [ViTModel](https://huggingface.co/docs/transformers/model_doc/vit) and load [dino](https://huggingface.co/facebook/dino-vits8) weights. 
+Note: most pretrained models can be found on [hf models](https://huggingface.co/models). You can also use it in the [hugging face](https://huggingface.co/docs/transformers/index) library as long as the model is supported. For example, you can use the [ViTModel](https://huggingface.co/docs/transformers/model_doc/vit) and load [dino](https://huggingface.co/models?sort=trending&search=dino) weights. 
 
 ## Papers
 
