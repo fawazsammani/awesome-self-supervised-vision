@@ -127,13 +127,14 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[GMML]** GMML is All you Need [[pdf]](https://arxiv.org/pdf/2205.14986.pdf) [[code]](https://github.com/Sara-Ahmed/GMML)
 - [Awesome Masked Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 
-## Unsupervised Semantic Segmentation With/Using Self-Supervised Models
+## Unsupervised Segmentation With/Using Self-Supervised Models
 - **[TransCAM]**: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2203.07239.pdf) [[code]](https://github.com/liruiwen/TransCAM)
 - **[GroupViT]**: Semantic Segmentation Emerges from Text Supervision [[pdf]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://github.com/NVlabs/GroupViT)
 - **[LOST]** Localizing Objects with Self-Supervised Transformers and no Labels [[pdf]](https://arxiv.org/pdf/2109.14279.pdf) [[code]](https://github.com/valeoai/LOST)
 - **[MaskContrast]** Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals [[pdf]](https://arxiv.org/pdf/2102.06191.pdf) [[code]](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)
 - **[MaskDistill]** Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2206.06363v1.pdf) [[code]](https://github.com/wvangansbeke/MaskDistill)
 - **[Leopart]** Self-Supervised Learning of Object Parts for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2204.13101v2.pdf) [[code]](https://github.com/mkuuwaujinga/leopart)
+- **[TokenCut]** Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut [[pdf]](https://arxiv.org/pdf/2202.11539.pdf) [[code]](https://github.com/YangtaoWANG95/TokenCut) [[colab]](https://colab.research.google.com/github/YangtaoWANG95/TokenCut/blob/master/inference_demo.ipynb) [[website]](https://www.m-psi.fr/Papers/TokenCut2022/)
 - Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
 
 ## Review Papers
