@@ -85,7 +85,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[Mugs]** A Multi-Granular Self-Supervised Learning Framework [[pdf]](https://arxiv.org/pdf/2203.14415v1.pdf) [[code]](https://github.com/sail-sg/mugs)
 - **[BatchFormer]** Learning to Explore Sample Relationships for Robust Representation Learning [[pdf]](https://arxiv.org/pdf/2203.01522.pdf) [[code]](https://github.com/zhihou7/BatchFormer)
 - **[RELICv2]** Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet? [[pdf]](https://arxiv.org/pdf/2201.05119v1.pdf)
-- **[TWIST]** Self-Supervised Learning by Estimating Twin Class Distributions [[pdf]](https://arxiv.org/pdf/2110.07402v4.pdf) [[code]](https://github.com/bytedance/TWIST)
 - **[CaCo]** Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning [[pdf]](https://arxiv.org/pdf/2203.14370v1.pdf) [[code]](https://github.com/maple-research-lab/caco)
 - **[DnC]** Divide and Contrast: Self-supervised Learning from Uncurated Data [[pdf]](https://arxiv.org/pdf/2105.08054v1.pdf)
 - **[LIFT]**: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks [[pdf]](https://arxiv.org/pdf/2206.06565.pdf) [[code]](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
