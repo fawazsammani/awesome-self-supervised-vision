@@ -135,7 +135,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[MaskDistill]** Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2206.06363v1.pdf) [[code]](https://github.com/wvangansbeke/MaskDistill)
 - **[Leopart]** Self-Supervised Learning of Object Parts for Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2204.13101v2.pdf) [[code]](https://github.com/mkuuwaujinga/leopart)
 - **[TokenCut]** Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut [[pdf]](https://arxiv.org/pdf/2202.11539.pdf) [[code]](https://github.com/YangtaoWANG95/TokenCut) [[colab]](https://colab.research.google.com/github/YangtaoWANG95/TokenCut/blob/master/inference_demo.ipynb) [[website]](https://www.m-psi.fr/Papers/TokenCut2022/)
-- Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
+- Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization [[pdf]](https://arxiv.org/pdf/2205.07839.pdf) [[code]](https://github.com/lukemelas/deep-spectral-segmentation) [[demo]](https://huggingface.co/spaces/lukemelas/deep-spectral-segmentation) [[website]](https://lukemelas.github.io/deep-spectral-segmentation/)
 
 ## Review Papers
 - A Cookbook of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2304.12210.pdf)
